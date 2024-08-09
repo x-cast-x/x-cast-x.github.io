@@ -347,7 +347,6 @@ navbar:
     - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
     - { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
-    # - { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
 
 # 搜索功能，基于 hexo-generator-search 插件，若已安装其他搜索插件请关闭此功能，以避免生成多余的索引文件
 # Search feature, based on hexo-generator-search. If you have installed other search plugins, please disable this feature to avoid generating redundant index files
@@ -963,7 +962,6 @@ about:
     - { class: "iconfont icon-bilibili-fill", link: "https://space.bilibili.com/671269248", tip: "Bilibili" }
     - { class: "iconfont icon-line-fill", link: "https://line.me/ti/p/v_2rUXPfF0", tip: "Line" }
     - { class: "iconfont icon-steam", link: "https://steamcommunity.com/id/Manutsawee", tip: "Steam" }
-    - { class: "iconfont icon-mail", link: "manutsawee.louis@outlook.com", tip: "manutsawee.louis@outlook.com" }
 
 #---------------------------
 # 自定义页
