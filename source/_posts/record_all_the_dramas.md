@@ -10,5 +10,5 @@ categories:
 ---
 
 ## 1.败犬女主太多了!
-![败犬女主太多了!](https://pbs.twimg.com/media/E_f6ur5X0AEa188?format=jpg&name=900x900 "败犬女主太多了!")
+![败犬女主太多了!](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/animepic/too_any_losing_heroines.jpg "败犬女主太多了!")
 **观感: 我八胃大, 无需多言!**
