@@ -8,12 +8,8 @@ subtitle: ''
 description: ''
 keywords:
 author: Sydney
-language: [zh, en]
+language: zh-CN
 timezone: ''
-
-i18n:
-  type: [page, post]
-  generator: [archive, category, tag, index]
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
