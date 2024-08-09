@@ -345,6 +345,7 @@ navbar:
     - { key: "archive", link: "/archives/", icon: "iconfont icon-archive-fill" }
     - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
     - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
+    - { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
     # - { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
 
@@ -962,7 +963,7 @@ about:
     - { class: "iconfont icon-bilibili-fill", link: "https://space.bilibili.com/671269248", tip: "Bilibili" }
     - { class: "iconfont icon-line-fill", link: "https://line.me/ti/p/v_2rUXPfF0", tip: "Line" }
     - { class: "iconfont icon-steam", link: "https://steamcommunity.com/id/Manutsawee", tip: "Steam" }
-    - { class: "iconfont icon-mail", tip: "manutsawee.louis@outlook.com" }
+    - { class: "iconfont icon-mail", link: "manutsawee.louis@outlook.com", tip: "manutsawee.louis@outlook.com" }
 
 #---------------------------
 # 自定义页
