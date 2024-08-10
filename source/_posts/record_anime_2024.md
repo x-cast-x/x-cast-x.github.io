@@ -29,7 +29,7 @@ categories:
 
 ## 4.青春猪头少年不会梦到红书包女孩
 **不谈作画，纯看故事: 一次对于“爱”的追寻**
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/animepic/rascal_does_not_dream_of_a_knapsack_kid.png)
+![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/animepic/rascal_does_not_dream_of_a_knapsack_kid.jpg)
 
 ## 5.约会大作战第六季
 **虽然修改了结局剧情，但能理解，能动就行**
