@@ -10,11 +10,11 @@ categories:
     - 探索
 ---
 
-### 首先推荐一个工具
-## 简介
+## 首先推荐一个工具
+### 简介
 ***PS: 感谢白帽汇提供这么好用的测绘工具:D***
 一个命令行工具，可以无会员采集fofa的数据。具体使用请看项目Readme
-## 安装
+### 安装
 下载 fofa-hack [releases](https://github.com/Cl0udG0d/Fofa-hack/releases) 最新版本
 
 <!-- ***
