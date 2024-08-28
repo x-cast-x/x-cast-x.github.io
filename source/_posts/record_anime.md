@@ -1,5 +1,5 @@
 ---
-title: 记录2024年看过的动漫番剧
+title: 记录看过的动漫番剧
 banner_img: /img/bg_image/too_any_losing_heroines/silence.png
 tags: 
     - 动画
@@ -15,6 +15,7 @@ categories:
 
 ***
 
+# 2024年
 ## 1.败犬女主太多了!
 **我八胃大, 无需多言!**
 ![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/animepic/too_any_losing_heroines.jpg)
