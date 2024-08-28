@@ -1,6 +1,6 @@
 ---
 title: 个人常用谷歌搜索语法
-banner_img: /img/bg_image/too_any_losing_heroines/silence.png
+banner_img: /img/bg_image/bocchi_the_rock/bocchi_dinosaur.png
 tags: 
     - 网络
     - 搜索

@@ -1,6 +1,6 @@
 ---
 title: 个人常用fofa搜索语法
-banner_img: /img/bg_image/too_any_losing_heroines/silence.png
+banner_img: /img/bg_image/too_any_losing_heroines/grab_the_railing.png
 tags: 
     - 网络
     - 网络安全
@@ -17,9 +17,14 @@ categories:
 ### 安装
 下载 fofa-hack [releases](https://github.com/Cl0udG0d/Fofa-hack/releases) 最新版本
 
-<!-- ***
+***
 
-1.寻找私有网盘
+1.私有网盘
 ```
 body="Served with" && body="href=\"https://caddyserver.com\""
-``` -->
+```
+
+2.独立博客
+```
+body="Served with" && body="href=\"https://caddyserver.com\""
+```

@@ -1,11 +1,8 @@
 ---
-title: 寻找独立博客
+title: 记录阅读的书籍
 banner_img: /img/bg_image/too_any_losing_heroines/silence.png
 tags: 
-    - 网络
-    - 互联网
-    - 博客
+    - 看书
 categories: 
-    - 探索
+    - 看书
 ---
-
