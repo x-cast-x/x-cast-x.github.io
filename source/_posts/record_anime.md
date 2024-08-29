@@ -4,10 +4,9 @@ banner_img: /img/bg_image/too_any_losing_heroines/silence.png
 tags: 
     - 动画
     - 番剧
-    - ACGN
-    - "2024"
+    - 动漫
 categories: 
-    - ACGN
+    - 二次元
 ---
 
 ## 前言:
@@ -43,3 +42,27 @@ categories:
 ## 7.夜晚的水母不会游泳
 **作画很棒，故事一坨（**
 ![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/animepic/jellyfish_can't_swim_in_the_night.png)
+
+***
+
+# 2023年
+
+***
+
+# 2022年
+
+***
+
+# 2021年
+
+***
+
+# 2020年
+
+***
+
+# 2019年
+
+***
+
+# 2028年
