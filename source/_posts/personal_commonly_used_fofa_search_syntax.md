@@ -24,7 +24,7 @@ categories:
 body="Served with" && body="href=\"https://caddyserver.com\""
 ```
 
-2.独立博客
+<!-- 2.独立博客
 ```
 body="Served with" && body="href=\"https://caddyserver.com\""
-```
+``` -->
