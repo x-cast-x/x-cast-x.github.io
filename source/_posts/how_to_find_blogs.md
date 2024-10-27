@@ -1,4 +1,4 @@
----
+<!-- ---
 title: 寻找独立博客
 banner_img: /img/bg_image/too_any_losing_heroines/silence.png
 tags: 
@@ -8,4 +8,4 @@ tags:
 categories: 
     - 探索
 ---
-
+ -->
