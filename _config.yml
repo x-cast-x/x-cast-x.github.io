@@ -102,6 +102,6 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/sydneyclaude/sydneyclaude.github.io
-  # example, https://github.com/sydneyclaude/sydneyclaude.github.io
+  repo: https://github.com/HarmonyTou/harmonytou.github.io
+  # example, https://github.com/HarmonyTou/harmonytou.github.io
   branch: main

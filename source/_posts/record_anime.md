@@ -1,5 +1,5 @@
 ---
-title: 记录看过的动漫番剧
+title: 记录观看过的动漫番剧
 banner_img: /img/bg_image/too_any_losing_heroines/silence.png
 tags: 
     - 动画

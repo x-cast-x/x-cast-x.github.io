@@ -11,13 +11,13 @@ proxies:
   - {name: "🇭🇰 IPLC｜冀港 [2.0][原生]", server: iplc-ji.cmy-dns.com, port: 768, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
   - {name: "🇭🇰 IPLC｜香港媒体专线-1 [2.0][NF]", server: iplc-nf-1.cmy-dns.com, port: 760, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
   - {name: "🇭🇰 IPLC｜深港 [2.0][原生]", server: iplc-shen.cmy-dns.com, port: 768, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
-  - {name: "🇨🇳 IPLC｜浙台 [2.0][原生]", server: iplc-zhe.cmy-dns.com, port: 767, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
+  - {name: "🇹🇼 IPLC｜浙台 [2.0][原生]", server: iplc-zhe.cmy-dns.com, port: 767, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
   - {name: "🇸🇬 IPLC｜沪新 [2.0][UDP]", server: iplc-hu.cmy-dns.com, port: 764, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
-  - {name: "🇨🇳 IPLC｜湘台 [2.0][原生]", server: iplc-xiang.cmy-dns.com, port: 767, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
+  - {name: "🇹🇼 IPLC｜湘台 [2.0][原生]", server: iplc-xiang.cmy-dns.com, port: 767, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
   - {name: "🇸🇬 IPLC｜新加坡媒体专线-1 [2.0][NF]", server: iplc-nf-1.cmy-dns.com, port: 763, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
   - {name: "🇭🇰 IPLC｜苏港 [2.0][原生]", server: iplc-su.cmy-dns.com, port: 768, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
-  - {name: "🇨🇳 IPLC｜冀台 [2.0][原生]", server: iplc-ji.cmy-dns.com, port: 767, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
-  - {name: "🇨🇳 IPLC｜沪台 [2.0][原生]", server: iplc-hu.cmy-dns.com, port: 767, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
+  - {name: "🇹🇼 IPLC｜冀台 [2.0][原生]", server: iplc-ji.cmy-dns.com, port: 767, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
+  - {name: "🇹🇼 IPLC｜沪台 [2.0][原生]", server: iplc-hu.cmy-dns.com, port: 767, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
   - {name: "🇸🇬 IPLC｜浙新 [2.0][UDP]", server: iplc-zhe.cmy-dns.com, port: 764, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
   - {name: "🇸🇬 IPLC｜湘新 [2.0][UDP]", server: iplc-xiang.cmy-dns.com, port: 764, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
   - {name: "🇸🇬 IPLC｜苏新 [2.0][UDP]", server: iplc-su.cmy-dns.com, port: 764, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
@@ -31,13 +31,13 @@ proxies:
   - {name: "🇯🇵 IPLC｜浙日 [2.0][原生]", server: iplc-zhe.cmy-dns.com, port: 769, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
   - {name: "🇯🇵 IPLC｜苏日 [2.0][原生]", server: iplc-su.cmy-dns.com, port: 769, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
   - {name: "🇭🇰 IPLC｜珠港 [2.0][原生]", server: iplc-zhu.cmy-dns.com, port: 768, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
-  - {name: "🇨🇳 IPLC｜苏台 [2.0][原生]", server: iplc-su.cmy-dns.com, port: 767, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
+  - {name: "🇹🇼 IPLC｜苏台 [2.0][原生]", server: iplc-su.cmy-dns.com, port: 767, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
   - {name: "🇸🇬 IPLC｜深新 [2.0][UDP]", server: iplc-shen.cmy-dns.com, port: 764, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
   - {name: "🇸🇬 IPLC｜珠新 [2.0][UDP]", server: iplc-zhu.cmy-dns.com, port: 764, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
-  - {name: "🇨🇳 IPLC｜深台 [2.0][原生]", server: iplc-shen.cmy-dns.com, port: 767, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
+  - {name: "🇹🇼 IPLC｜深台 [2.0][原生]", server: iplc-shen.cmy-dns.com, port: 767, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
   - {name: "🇸🇬 IPLC｜冀新 [2.0][UDP]", server: iplc-ji.cmy-dns.com, port: 764, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
   - {name: "🇯🇵 IPLC｜珠日 [2.0][原生]", server: iplc-zhu.cmy-dns.com, port: 769, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
-  - {name: "🇨🇳 IPLC｜闽台 [2.0][原生]", server: iplc-min.cmy-dns.com, port: 767, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
+  - {name: "🇹🇼 IPLC｜闽台 [2.0][原生]", server: iplc-min.cmy-dns.com, port: 767, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
   - {name: "🇺🇸 IPLC｜苏美 [2.0][NF][原生]", server: iplc-su.cmy-dns.com, port: 766, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
   - {name: "🇺🇸 IPLC｜湘美 [2.0][NF]", server: iplc-xiang.cmy-dns.com, port: 766, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
   - {name: "🇯🇵 IPLC｜日本媒体专线-1 [2.0][NF]", server: iplc-nf-1.cmy-dns.com, port: 762, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
@@ -47,8 +47,8 @@ proxies:
   - {name: "🇺🇸 IPLC｜深美 [2.0][NF][原生]", server: iplc-shen.cmy-dns.com, port: 766, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
   - {name: "🇺🇸 IPLC｜闽美 [2.0][原生][NF]", server: iplc-min.cmy-dns.com, port: 766, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
   - {name: "🇺🇸 IPLC｜珠美 [2.0][NF][原生]", server: iplc-zhu.cmy-dns.com, port: 766, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
-  - {name: "🇨🇳 IPLC｜台湾媒体专线-1 [2.0][NF][Disney+]", server: iplc-nf-1.cmy-dns.com, port: 765, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
-  - {name: "🇨🇳 IPLC｜珠台 [2.0][原生]", server: iplc-zhu.cmy-dns.com, port: 767, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
+  - {name: "🇹🇼 IPLC｜台湾媒体专线-1 [2.0][NF][Disney+]", server: iplc-nf-1.cmy-dns.com, port: 765, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
+  - {name: "🇹🇼 IPLC｜珠台 [2.0][原生]", server: iplc-zhu.cmy-dns.com, port: 767, type: ssr, cipher: rc4-md5, password: caomeijump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 192384:864cbeaf-5126-3bb2-9ac3-4381cd1a5664, obfs-param: ajax.microsoft.com}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -61,13 +61,13 @@ proxy-groups:
       - 🇭🇰 IPLC｜冀港 [2.0][原生]
       - 🇭🇰 IPLC｜香港媒体专线-1 [2.0][NF]
       - 🇭🇰 IPLC｜深港 [2.0][原生]
-      - 🇨🇳 IPLC｜浙台 [2.0][原生]
+      - 🇹🇼 IPLC｜浙台 [2.0][原生]
       - 🇸🇬 IPLC｜沪新 [2.0][UDP]
-      - 🇨🇳 IPLC｜湘台 [2.0][原生]
+      - 🇹🇼 IPLC｜湘台 [2.0][原生]
       - 🇸🇬 IPLC｜新加坡媒体专线-1 [2.0][NF]
       - 🇭🇰 IPLC｜苏港 [2.0][原生]
-      - 🇨🇳 IPLC｜冀台 [2.0][原生]
-      - 🇨🇳 IPLC｜沪台 [2.0][原生]
+      - 🇹🇼 IPLC｜冀台 [2.0][原生]
+      - 🇹🇼 IPLC｜沪台 [2.0][原生]
       - 🇸🇬 IPLC｜浙新 [2.0][UDP]
       - 🇸🇬 IPLC｜湘新 [2.0][UDP]
       - 🇸🇬 IPLC｜苏新 [2.0][UDP]
@@ -81,13 +81,13 @@ proxy-groups:
       - 🇯🇵 IPLC｜浙日 [2.0][原生]
       - 🇯🇵 IPLC｜苏日 [2.0][原生]
       - 🇭🇰 IPLC｜珠港 [2.0][原生]
-      - 🇨🇳 IPLC｜苏台 [2.0][原生]
+      - 🇹🇼 IPLC｜苏台 [2.0][原生]
       - 🇸🇬 IPLC｜深新 [2.0][UDP]
       - 🇸🇬 IPLC｜珠新 [2.0][UDP]
-      - 🇨🇳 IPLC｜深台 [2.0][原生]
+      - 🇹🇼 IPLC｜深台 [2.0][原生]
       - 🇸🇬 IPLC｜冀新 [2.0][UDP]
       - 🇯🇵 IPLC｜珠日 [2.0][原生]
-      - 🇨🇳 IPLC｜闽台 [2.0][原生]
+      - 🇹🇼 IPLC｜闽台 [2.0][原生]
       - 🇺🇸 IPLC｜苏美 [2.0][NF][原生]
       - 🇺🇸 IPLC｜湘美 [2.0][NF]
       - 🇯🇵 IPLC｜日本媒体专线-1 [2.0][NF]
@@ -97,8 +97,8 @@ proxy-groups:
       - 🇺🇸 IPLC｜深美 [2.0][NF][原生]
       - 🇺🇸 IPLC｜闽美 [2.0][原生][NF]
       - 🇺🇸 IPLC｜珠美 [2.0][NF][原生]
-      - 🇨🇳 IPLC｜台湾媒体专线-1 [2.0][NF][Disney+]
-      - 🇨🇳 IPLC｜珠台 [2.0][原生]
+      - 🇹🇼 IPLC｜台湾媒体专线-1 [2.0][NF][Disney+]
+      - 🇹🇼 IPLC｜珠台 [2.0][原生]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -111,13 +111,13 @@ proxy-groups:
       - 🇭🇰 IPLC｜冀港 [2.0][原生]
       - 🇭🇰 IPLC｜香港媒体专线-1 [2.0][NF]
       - 🇭🇰 IPLC｜深港 [2.0][原生]
-      - 🇨🇳 IPLC｜浙台 [2.0][原生]
+      - 🇹🇼 IPLC｜浙台 [2.0][原生]
       - 🇸🇬 IPLC｜沪新 [2.0][UDP]
-      - 🇨🇳 IPLC｜湘台 [2.0][原生]
+      - 🇹🇼 IPLC｜湘台 [2.0][原生]
       - 🇸🇬 IPLC｜新加坡媒体专线-1 [2.0][NF]
       - 🇭🇰 IPLC｜苏港 [2.0][原生]
-      - 🇨🇳 IPLC｜冀台 [2.0][原生]
-      - 🇨🇳 IPLC｜沪台 [2.0][原生]
+      - 🇹🇼 IPLC｜冀台 [2.0][原生]
+      - 🇹🇼 IPLC｜沪台 [2.0][原生]
       - 🇸🇬 IPLC｜浙新 [2.0][UDP]
       - 🇸🇬 IPLC｜湘新 [2.0][UDP]
       - 🇸🇬 IPLC｜苏新 [2.0][UDP]
@@ -131,13 +131,13 @@ proxy-groups:
       - 🇯🇵 IPLC｜浙日 [2.0][原生]
       - 🇯🇵 IPLC｜苏日 [2.0][原生]
       - 🇭🇰 IPLC｜珠港 [2.0][原生]
-      - 🇨🇳 IPLC｜苏台 [2.0][原生]
+      - 🇹🇼 IPLC｜苏台 [2.0][原生]
       - 🇸🇬 IPLC｜深新 [2.0][UDP]
       - 🇸🇬 IPLC｜珠新 [2.0][UDP]
-      - 🇨🇳 IPLC｜深台 [2.0][原生]
+      - 🇹🇼 IPLC｜深台 [2.0][原生]
       - 🇸🇬 IPLC｜冀新 [2.0][UDP]
       - 🇯🇵 IPLC｜珠日 [2.0][原生]
-      - 🇨🇳 IPLC｜闽台 [2.0][原生]
+      - 🇹🇼 IPLC｜闽台 [2.0][原生]
       - 🇺🇸 IPLC｜苏美 [2.0][NF][原生]
       - 🇺🇸 IPLC｜湘美 [2.0][NF]
       - 🇯🇵 IPLC｜日本媒体专线-1 [2.0][NF]
@@ -147,8 +147,8 @@ proxy-groups:
       - 🇺🇸 IPLC｜深美 [2.0][NF][原生]
       - 🇺🇸 IPLC｜闽美 [2.0][原生][NF]
       - 🇺🇸 IPLC｜珠美 [2.0][NF][原生]
-      - 🇨🇳 IPLC｜台湾媒体专线-1 [2.0][NF][Disney+]
-      - 🇨🇳 IPLC｜珠台 [2.0][原生]
+      - 🇹🇼 IPLC｜台湾媒体专线-1 [2.0][NF][Disney+]
+      - 🇹🇼 IPLC｜珠台 [2.0][原生]
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -161,13 +161,13 @@ proxy-groups:
       - 🇭🇰 IPLC｜冀港 [2.0][原生]
       - 🇭🇰 IPLC｜香港媒体专线-1 [2.0][NF]
       - 🇭🇰 IPLC｜深港 [2.0][原生]
-      - 🇨🇳 IPLC｜浙台 [2.0][原生]
+      - 🇹🇼 IPLC｜浙台 [2.0][原生]
       - 🇸🇬 IPLC｜沪新 [2.0][UDP]
-      - 🇨🇳 IPLC｜湘台 [2.0][原生]
+      - 🇹🇼 IPLC｜湘台 [2.0][原生]
       - 🇸🇬 IPLC｜新加坡媒体专线-1 [2.0][NF]
       - 🇭🇰 IPLC｜苏港 [2.0][原生]
-      - 🇨🇳 IPLC｜冀台 [2.0][原生]
-      - 🇨🇳 IPLC｜沪台 [2.0][原生]
+      - 🇹🇼 IPLC｜冀台 [2.0][原生]
+      - 🇹🇼 IPLC｜沪台 [2.0][原生]
       - 🇸🇬 IPLC｜浙新 [2.0][UDP]
       - 🇸🇬 IPLC｜湘新 [2.0][UDP]
       - 🇸🇬 IPLC｜苏新 [2.0][UDP]
@@ -181,13 +181,13 @@ proxy-groups:
       - 🇯🇵 IPLC｜浙日 [2.0][原生]
       - 🇯🇵 IPLC｜苏日 [2.0][原生]
       - 🇭🇰 IPLC｜珠港 [2.0][原生]
-      - 🇨🇳 IPLC｜苏台 [2.0][原生]
+      - 🇹🇼 IPLC｜苏台 [2.0][原生]
       - 🇸🇬 IPLC｜深新 [2.0][UDP]
       - 🇸🇬 IPLC｜珠新 [2.0][UDP]
-      - 🇨🇳 IPLC｜深台 [2.0][原生]
+      - 🇹🇼 IPLC｜深台 [2.0][原生]
       - 🇸🇬 IPLC｜冀新 [2.0][UDP]
       - 🇯🇵 IPLC｜珠日 [2.0][原生]
-      - 🇨🇳 IPLC｜闽台 [2.0][原生]
+      - 🇹🇼 IPLC｜闽台 [2.0][原生]
       - 🇺🇸 IPLC｜苏美 [2.0][NF][原生]
       - 🇺🇸 IPLC｜湘美 [2.0][NF]
       - 🇯🇵 IPLC｜日本媒体专线-1 [2.0][NF]
@@ -197,8 +197,8 @@ proxy-groups:
       - 🇺🇸 IPLC｜深美 [2.0][NF][原生]
       - 🇺🇸 IPLC｜闽美 [2.0][原生][NF]
       - 🇺🇸 IPLC｜珠美 [2.0][NF][原生]
-      - 🇨🇳 IPLC｜台湾媒体专线-1 [2.0][NF][Disney+]
-      - 🇨🇳 IPLC｜珠台 [2.0][原生]
+      - 🇹🇼 IPLC｜台湾媒体专线-1 [2.0][NF][Disney+]
+      - 🇹🇼 IPLC｜珠台 [2.0][原生]
   - name: 📲 电报信息
     type: select
     proxies:
@@ -210,13 +210,13 @@ proxy-groups:
       - 🇭🇰 IPLC｜冀港 [2.0][原生]
       - 🇭🇰 IPLC｜香港媒体专线-1 [2.0][NF]
       - 🇭🇰 IPLC｜深港 [2.0][原生]
-      - 🇨🇳 IPLC｜浙台 [2.0][原生]
+      - 🇹🇼 IPLC｜浙台 [2.0][原生]
       - 🇸🇬 IPLC｜沪新 [2.0][UDP]
-      - 🇨🇳 IPLC｜湘台 [2.0][原生]
+      - 🇹🇼 IPLC｜湘台 [2.0][原生]
       - 🇸🇬 IPLC｜新加坡媒体专线-1 [2.0][NF]
       - 🇭🇰 IPLC｜苏港 [2.0][原生]
-      - 🇨🇳 IPLC｜冀台 [2.0][原生]
-      - 🇨🇳 IPLC｜沪台 [2.0][原生]
+      - 🇹🇼 IPLC｜冀台 [2.0][原生]
+      - 🇹🇼 IPLC｜沪台 [2.0][原生]
       - 🇸🇬 IPLC｜浙新 [2.0][UDP]
       - 🇸🇬 IPLC｜湘新 [2.0][UDP]
       - 🇸🇬 IPLC｜苏新 [2.0][UDP]
@@ -230,13 +230,13 @@ proxy-groups:
       - 🇯🇵 IPLC｜浙日 [2.0][原生]
       - 🇯🇵 IPLC｜苏日 [2.0][原生]
       - 🇭🇰 IPLC｜珠港 [2.0][原生]
-      - 🇨🇳 IPLC｜苏台 [2.0][原生]
+      - 🇹🇼 IPLC｜苏台 [2.0][原生]
       - 🇸🇬 IPLC｜深新 [2.0][UDP]
       - 🇸🇬 IPLC｜珠新 [2.0][UDP]
-      - 🇨🇳 IPLC｜深台 [2.0][原生]
+      - 🇹🇼 IPLC｜深台 [2.0][原生]
       - 🇸🇬 IPLC｜冀新 [2.0][UDP]
       - 🇯🇵 IPLC｜珠日 [2.0][原生]
-      - 🇨🇳 IPLC｜闽台 [2.0][原生]
+      - 🇹🇼 IPLC｜闽台 [2.0][原生]
       - 🇺🇸 IPLC｜苏美 [2.0][NF][原生]
       - 🇺🇸 IPLC｜湘美 [2.0][NF]
       - 🇯🇵 IPLC｜日本媒体专线-1 [2.0][NF]
@@ -246,8 +246,8 @@ proxy-groups:
       - 🇺🇸 IPLC｜深美 [2.0][NF][原生]
       - 🇺🇸 IPLC｜闽美 [2.0][原生][NF]
       - 🇺🇸 IPLC｜珠美 [2.0][NF][原生]
-      - 🇨🇳 IPLC｜台湾媒体专线-1 [2.0][NF][Disney+]
-      - 🇨🇳 IPLC｜珠台 [2.0][原生]
+      - 🇹🇼 IPLC｜台湾媒体专线-1 [2.0][NF][Disney+]
+      - 🇹🇼 IPLC｜珠台 [2.0][原生]
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -259,13 +259,13 @@ proxy-groups:
       - 🇭🇰 IPLC｜冀港 [2.0][原生]
       - 🇭🇰 IPLC｜香港媒体专线-1 [2.0][NF]
       - 🇭🇰 IPLC｜深港 [2.0][原生]
-      - 🇨🇳 IPLC｜浙台 [2.0][原生]
+      - 🇹🇼 IPLC｜浙台 [2.0][原生]
       - 🇸🇬 IPLC｜沪新 [2.0][UDP]
-      - 🇨🇳 IPLC｜湘台 [2.0][原生]
+      - 🇹🇼 IPLC｜湘台 [2.0][原生]
       - 🇸🇬 IPLC｜新加坡媒体专线-1 [2.0][NF]
       - 🇭🇰 IPLC｜苏港 [2.0][原生]
-      - 🇨🇳 IPLC｜冀台 [2.0][原生]
-      - 🇨🇳 IPLC｜沪台 [2.0][原生]
+      - 🇹🇼 IPLC｜冀台 [2.0][原生]
+      - 🇹🇼 IPLC｜沪台 [2.0][原生]
       - 🇸🇬 IPLC｜浙新 [2.0][UDP]
       - 🇸🇬 IPLC｜湘新 [2.0][UDP]
       - 🇸🇬 IPLC｜苏新 [2.0][UDP]
@@ -279,13 +279,13 @@ proxy-groups:
       - 🇯🇵 IPLC｜浙日 [2.0][原生]
       - 🇯🇵 IPLC｜苏日 [2.0][原生]
       - 🇭🇰 IPLC｜珠港 [2.0][原生]
-      - 🇨🇳 IPLC｜苏台 [2.0][原生]
+      - 🇹🇼 IPLC｜苏台 [2.0][原生]
       - 🇸🇬 IPLC｜深新 [2.0][UDP]
       - 🇸🇬 IPLC｜珠新 [2.0][UDP]
-      - 🇨🇳 IPLC｜深台 [2.0][原生]
+      - 🇹🇼 IPLC｜深台 [2.0][原生]
       - 🇸🇬 IPLC｜冀新 [2.0][UDP]
       - 🇯🇵 IPLC｜珠日 [2.0][原生]
-      - 🇨🇳 IPLC｜闽台 [2.0][原生]
+      - 🇹🇼 IPLC｜闽台 [2.0][原生]
       - 🇺🇸 IPLC｜苏美 [2.0][NF][原生]
       - 🇺🇸 IPLC｜湘美 [2.0][NF]
       - 🇯🇵 IPLC｜日本媒体专线-1 [2.0][NF]
@@ -295,8 +295,8 @@ proxy-groups:
       - 🇺🇸 IPLC｜深美 [2.0][NF][原生]
       - 🇺🇸 IPLC｜闽美 [2.0][原生][NF]
       - 🇺🇸 IPLC｜珠美 [2.0][NF][原生]
-      - 🇨🇳 IPLC｜台湾媒体专线-1 [2.0][NF][Disney+]
-      - 🇨🇳 IPLC｜珠台 [2.0][原生]
+      - 🇹🇼 IPLC｜台湾媒体专线-1 [2.0][NF][Disney+]
+      - 🇹🇼 IPLC｜珠台 [2.0][原生]
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -308,13 +308,13 @@ proxy-groups:
       - 🇭🇰 IPLC｜冀港 [2.0][原生]
       - 🇭🇰 IPLC｜香港媒体专线-1 [2.0][NF]
       - 🇭🇰 IPLC｜深港 [2.0][原生]
-      - 🇨🇳 IPLC｜浙台 [2.0][原生]
+      - 🇹🇼 IPLC｜浙台 [2.0][原生]
       - 🇸🇬 IPLC｜沪新 [2.0][UDP]
-      - 🇨🇳 IPLC｜湘台 [2.0][原生]
+      - 🇹🇼 IPLC｜湘台 [2.0][原生]
       - 🇸🇬 IPLC｜新加坡媒体专线-1 [2.0][NF]
       - 🇭🇰 IPLC｜苏港 [2.0][原生]
-      - 🇨🇳 IPLC｜冀台 [2.0][原生]
-      - 🇨🇳 IPLC｜沪台 [2.0][原生]
+      - 🇹🇼 IPLC｜冀台 [2.0][原生]
+      - 🇹🇼 IPLC｜沪台 [2.0][原生]
       - 🇸🇬 IPLC｜浙新 [2.0][UDP]
       - 🇸🇬 IPLC｜湘新 [2.0][UDP]
       - 🇸🇬 IPLC｜苏新 [2.0][UDP]
@@ -328,13 +328,13 @@ proxy-groups:
       - 🇯🇵 IPLC｜浙日 [2.0][原生]
       - 🇯🇵 IPLC｜苏日 [2.0][原生]
       - 🇭🇰 IPLC｜珠港 [2.0][原生]
-      - 🇨🇳 IPLC｜苏台 [2.0][原生]
+      - 🇹🇼 IPLC｜苏台 [2.0][原生]
       - 🇸🇬 IPLC｜深新 [2.0][UDP]
       - 🇸🇬 IPLC｜珠新 [2.0][UDP]
-      - 🇨🇳 IPLC｜深台 [2.0][原生]
+      - 🇹🇼 IPLC｜深台 [2.0][原生]
       - 🇸🇬 IPLC｜冀新 [2.0][UDP]
       - 🇯🇵 IPLC｜珠日 [2.0][原生]
-      - 🇨🇳 IPLC｜闽台 [2.0][原生]
+      - 🇹🇼 IPLC｜闽台 [2.0][原生]
       - 🇺🇸 IPLC｜苏美 [2.0][NF][原生]
       - 🇺🇸 IPLC｜湘美 [2.0][NF]
       - 🇯🇵 IPLC｜日本媒体专线-1 [2.0][NF]
@@ -344,8 +344,8 @@ proxy-groups:
       - 🇺🇸 IPLC｜深美 [2.0][NF][原生]
       - 🇺🇸 IPLC｜闽美 [2.0][原生][NF]
       - 🇺🇸 IPLC｜珠美 [2.0][NF][原生]
-      - 🇨🇳 IPLC｜台湾媒体专线-1 [2.0][NF][Disney+]
-      - 🇨🇳 IPLC｜珠台 [2.0][原生]
+      - 🇹🇼 IPLC｜台湾媒体专线-1 [2.0][NF][Disney+]
+      - 🇹🇼 IPLC｜珠台 [2.0][原生]
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -358,13 +358,13 @@ proxy-groups:
       - 🇭🇰 IPLC｜冀港 [2.0][原生]
       - 🇭🇰 IPLC｜香港媒体专线-1 [2.0][NF]
       - 🇭🇰 IPLC｜深港 [2.0][原生]
-      - 🇨🇳 IPLC｜浙台 [2.0][原生]
+      - 🇹🇼 IPLC｜浙台 [2.0][原生]
       - 🇸🇬 IPLC｜沪新 [2.0][UDP]
-      - 🇨🇳 IPLC｜湘台 [2.0][原生]
+      - 🇹🇼 IPLC｜湘台 [2.0][原生]
       - 🇸🇬 IPLC｜新加坡媒体专线-1 [2.0][NF]
       - 🇭🇰 IPLC｜苏港 [2.0][原生]
-      - 🇨🇳 IPLC｜冀台 [2.0][原生]
-      - 🇨🇳 IPLC｜沪台 [2.0][原生]
+      - 🇹🇼 IPLC｜冀台 [2.0][原生]
+      - 🇹🇼 IPLC｜沪台 [2.0][原生]
       - 🇸🇬 IPLC｜浙新 [2.0][UDP]
       - 🇸🇬 IPLC｜湘新 [2.0][UDP]
       - 🇸🇬 IPLC｜苏新 [2.0][UDP]
@@ -378,13 +378,13 @@ proxy-groups:
       - 🇯🇵 IPLC｜浙日 [2.0][原生]
       - 🇯🇵 IPLC｜苏日 [2.0][原生]
       - 🇭🇰 IPLC｜珠港 [2.0][原生]
-      - 🇨🇳 IPLC｜苏台 [2.0][原生]
+      - 🇹🇼 IPLC｜苏台 [2.0][原生]
       - 🇸🇬 IPLC｜深新 [2.0][UDP]
       - 🇸🇬 IPLC｜珠新 [2.0][UDP]
-      - 🇨🇳 IPLC｜深台 [2.0][原生]
+      - 🇹🇼 IPLC｜深台 [2.0][原生]
       - 🇸🇬 IPLC｜冀新 [2.0][UDP]
       - 🇯🇵 IPLC｜珠日 [2.0][原生]
-      - 🇨🇳 IPLC｜闽台 [2.0][原生]
+      - 🇹🇼 IPLC｜闽台 [2.0][原生]
       - 🇺🇸 IPLC｜苏美 [2.0][NF][原生]
       - 🇺🇸 IPLC｜湘美 [2.0][NF]
       - 🇯🇵 IPLC｜日本媒体专线-1 [2.0][NF]
@@ -394,8 +394,8 @@ proxy-groups:
       - 🇺🇸 IPLC｜深美 [2.0][NF][原生]
       - 🇺🇸 IPLC｜闽美 [2.0][原生][NF]
       - 🇺🇸 IPLC｜珠美 [2.0][NF][原生]
-      - 🇨🇳 IPLC｜台湾媒体专线-1 [2.0][NF][Disney+]
-      - 🇨🇳 IPLC｜珠台 [2.0][原生]
+      - 🇹🇼 IPLC｜台湾媒体专线-1 [2.0][NF][Disney+]
+      - 🇹🇼 IPLC｜珠台 [2.0][原生]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -424,13 +424,13 @@ proxy-groups:
       - 🇭🇰 IPLC｜冀港 [2.0][原生]
       - 🇭🇰 IPLC｜香港媒体专线-1 [2.0][NF]
       - 🇭🇰 IPLC｜深港 [2.0][原生]
-      - 🇨🇳 IPLC｜浙台 [2.0][原生]
+      - 🇹🇼 IPLC｜浙台 [2.0][原生]
       - 🇸🇬 IPLC｜沪新 [2.0][UDP]
-      - 🇨🇳 IPLC｜湘台 [2.0][原生]
+      - 🇹🇼 IPLC｜湘台 [2.0][原生]
       - 🇸🇬 IPLC｜新加坡媒体专线-1 [2.0][NF]
       - 🇭🇰 IPLC｜苏港 [2.0][原生]
-      - 🇨🇳 IPLC｜冀台 [2.0][原生]
-      - 🇨🇳 IPLC｜沪台 [2.0][原生]
+      - 🇹🇼 IPLC｜冀台 [2.0][原生]
+      - 🇹🇼 IPLC｜沪台 [2.0][原生]
       - 🇸🇬 IPLC｜浙新 [2.0][UDP]
       - 🇸🇬 IPLC｜湘新 [2.0][UDP]
       - 🇸🇬 IPLC｜苏新 [2.0][UDP]
@@ -444,13 +444,13 @@ proxy-groups:
       - 🇯🇵 IPLC｜浙日 [2.0][原生]
       - 🇯🇵 IPLC｜苏日 [2.0][原生]
       - 🇭🇰 IPLC｜珠港 [2.0][原生]
-      - 🇨🇳 IPLC｜苏台 [2.0][原生]
+      - 🇹🇼 IPLC｜苏台 [2.0][原生]
       - 🇸🇬 IPLC｜深新 [2.0][UDP]
       - 🇸🇬 IPLC｜珠新 [2.0][UDP]
-      - 🇨🇳 IPLC｜深台 [2.0][原生]
+      - 🇹🇼 IPLC｜深台 [2.0][原生]
       - 🇸🇬 IPLC｜冀新 [2.0][UDP]
       - 🇯🇵 IPLC｜珠日 [2.0][原生]
-      - 🇨🇳 IPLC｜闽台 [2.0][原生]
+      - 🇹🇼 IPLC｜闽台 [2.0][原生]
       - 🇺🇸 IPLC｜苏美 [2.0][NF][原生]
       - 🇺🇸 IPLC｜湘美 [2.0][NF]
       - 🇯🇵 IPLC｜日本媒体专线-1 [2.0][NF]
@@ -460,8 +460,8 @@ proxy-groups:
       - 🇺🇸 IPLC｜深美 [2.0][NF][原生]
       - 🇺🇸 IPLC｜闽美 [2.0][原生][NF]
       - 🇺🇸 IPLC｜珠美 [2.0][NF][原生]
-      - 🇨🇳 IPLC｜台湾媒体专线-1 [2.0][NF][Disney+]
-      - 🇨🇳 IPLC｜珠台 [2.0][原生]
+      - 🇹🇼 IPLC｜台湾媒体专线-1 [2.0][NF][Disney+]
+      - 🇹🇼 IPLC｜珠台 [2.0][原生]
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

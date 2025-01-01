@@ -278,8 +278,8 @@ web_analytics:  # 网页访问统计
   # LeanCloud 计数统计，可用于 PV UV 展示，如果 `web_analytics: enable` 没有开启，PV UV 展示只会查询不会增加
   # LeanCloud count statistics, which can be used for PV UV display. If `web_analytics: enable` is false, PV UV display will only query and not increase
   leancloud:
-    app_id: nR6j1YeDIhRBqJr3KjUnyLAR-MdYXbMMI
-    app_key: 4n0LOU7o9WrmrRAhnxX0H0jw
+    app_id: 
+    app_key: 
     # REST API 服务器地址，国际版不填
     # Only the Chinese mainland users need to set
     server_url:
@@ -428,7 +428,7 @@ footer:
   # 展示网站的 PV、UV 统计数
   # Display website PV and UV statistics
   statistics:
-    enable: true
+    enable: false
 
     # 统计数据来源，使用 leancloud 需要设置 `web_analytics: leancloud` 中的参数；使用 busuanzi 不需要额外设置，但是有时不稳定，另外本地运行时 busuanzi 显示统计数据很大属于正常现象，部署后会正常
     # Data source. If use leancloud, you need to set the parameter in `web_analytics: leancloud`
@@ -955,7 +955,7 @@ about:
   banner_mask_alpha: 0.3
   avatar: /img/avatar/yanami_anna.png
   name: "Sydney"
-  intro: "互联网永远是对的,但人不是."
+  intro: ""
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, The icon is no longer a link, but a hovering QR code
   icons:
