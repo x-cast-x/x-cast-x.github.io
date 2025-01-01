@@ -22,15 +22,11 @@ CPU：双核
 登陆你的Linux操作系统
 在开始之前，必须先安装运行Steamcmd所需的依赖：
 
-    ```bash
-    sudo apt-get install lib32gcc1
-    ```
+    sudo apt-get install lib32gcc1 
 
 用于下载你需要的模组
 
-    ```bash
     sudo apt install steamcmd
-    ```
 
 ***其它系统安装请阅读Steamcmd的官网***
 
@@ -41,24 +37,19 @@ CPU：双核
 
 创建一个名为dont_starve_together_dedicated_server_scripts的文件夹, 并且进入这个文件夹
 
-    ```bash
     mkdir dont_starve_together_dedicated_server_scripts && cd dont_starve_together_dedicated_server_scripts
-    ```
 
 创建一个update_dedicated_server.sh,  并且将Steamcmd下载命令写入
 
-    ```bash
     touch update_dedicated_server.sh && echo 'steamcmd +login anonymous +app_update 343050 validate +quit' >> update_dedicated_server.sh
-    ```
 
 赋予update_dedicated_server.sh执行权限
 
-    ```bash
     chmod u+x update_dedicated_server.sh
-    ```
 
 执行它开始下载服务端
 
-    ```bash
     ./update_dedicated_server.sh
-    ```
+
+![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/update-dedicated-server.png)
+
