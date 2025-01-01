@@ -1,6 +1,6 @@
 ---
 title: 使用Linux搭建tModLoader服务器
-banner_img: /img/bg_image/too_any_losing_heroines/I_was_dumped.png
+banner_img: /img/bg_image/too_any_losing_heroines/run.png
 tags: 
     - 泰拉瑞亚
     - tModLoader
