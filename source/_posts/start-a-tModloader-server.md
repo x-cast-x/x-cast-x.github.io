@@ -47,6 +47,7 @@ CPU：双核
 
 ![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/wget.png)
 
+解压tModLoader.zip
     unzip tModLoader.zip
 
 文件结构如下：
@@ -124,10 +125,10 @@ Ctrl+c退出，下一步处理模组
         done
 
         # 使用eval执行生成的steamcmd命令
-        # +force_install_dir 设置模组安装路径为 ~/tmodloader/
+        # +force_install_dir 设置模组安装路径为 ~/tModLoader/
         # +login anonymous 使用匿名用户登录
         # +quit 退出steamcmd
-        eval "steamcmd +force_install_dir ~/tmodloader/ +login anonymous $steamcmd_command +quit"
+        eval "steamcmd +force_install_dir ~/tModLoader/ +login anonymous $steamcmd_command +quit"
 
         # 输出完成信息
         echo "Done"
@@ -151,6 +152,7 @@ Ctrl+c退出，下一步处理模组
 ![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/mod-integration-package-4.png)
 
 运行install-Workshop-Mods.sh下载模组
+
     ./install-Workshop-Mods.sh
 
 ![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/install-workshop-mods.png)

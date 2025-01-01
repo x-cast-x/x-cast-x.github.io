@@ -962,9 +962,7 @@ about:
     - { class: "iconfont icon-qq-fill", link: "tencent://message/?uin=2650574930", tip: "QQ" }
     - { class: "iconfont icon-github-fill", link: "https://github.com/HarmonyTou", tip: "GitHub" }
     - { class: "iconfont icon-bilibili-fill", link: "https://space.bilibili.com/671269248", tip: "Bilibili" }
-    - { class: "iconfont icon-line-fill", link: "https://line.me/ti/p/v_2rUXPfF0", tip: "Line" }
     - { class: "iconfont icon-steam", link: "https://steamcommunity.com/id/Manutsawee", tip: "Steam" }
-    - { class: "iconfont icon-v2ex", link: "https://v2ex.com/member/Manutsawee", tip: "V2ex" }
 
 #---------------------------
 # 自定义页
