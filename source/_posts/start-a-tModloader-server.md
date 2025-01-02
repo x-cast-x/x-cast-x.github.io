@@ -53,6 +53,7 @@ CPU：双核
 
 tModLoader文件夹结构如下：
 
+    tModLoader
     ├── DedicatedServerUtils
     ├── dotnet
     ├── LaunchUtils
@@ -96,12 +97,7 @@ tModLoader文件夹结构如下：
 Ctrl+c退出，下一步处理模组
 
 ## 3.下载&安装模组
-
-进入tModLoader文件夹
-
-    cd tModLoader
-
-创建一个名为install-Workshop-Mods.sh的可执行文件，并且赋予它执行权限
+在tModLoader文件夹下，创建一个名为install-Workshop-Mods.sh的可执行文件，并且赋予它执行权限
 
     touch install-Workshop-Mods.sh && chmod u+x install-Workshop-Mods.sh
 
@@ -163,13 +159,13 @@ Ctrl+c退出，下一步处理模组
 到这一步，已经完成了搭建，只差追一步启动服务器
 
 ## 4.启动&保持后台运行
-
 启动之前先执行命令开启tModLoader需要的默认7777端口
+***如果你使用的是云服务商提供的服务器，那么还需要在云服务商提供的控制台，修改防火墙规则，允许1通过0999和10998端口***
 
     ufw allow 7777
 
 配合screen命令进行使用方便管理
-    
+
     apt-get install screen
 
 使用screen创建一个窗口执行start-tModLoaderServer.sh
