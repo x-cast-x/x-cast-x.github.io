@@ -11,3 +11,14 @@ categories:
 date: 2024-01-01 20:25:49
 ---
 
+# 解决方法:
+打开terminal，输入运行:
+
+    sudo chown -R $(whoami) ~/Library/Application\ Support/Steam/steamapps/common/tModLoader
+    sudo chown -R $(whoami) ~/Library/Application\ Support/Terraria
+
+# 适用场景:
+• tModLoader无权限访问../tModLoader-Logs下的日志文件
+• tModLoader无权限访问../Terraria下的存档文件
+
+***如还无法运行tModLoader, 请查阅其它解决方法***
