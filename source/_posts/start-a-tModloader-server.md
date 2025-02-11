@@ -32,20 +32,20 @@ CPU：双核
 ***其它系统安装请阅读Steamcmd的官网***
 
 输入steamcmd，尝试运行steamcmd，成功后输入exit退出
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/steamcmd.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/steamcmd.png)
 
 ## 2.从Github获取tModLoader
 进入[tModLoader的releases](https://github.com/tModLoader/tModLoader/releases)
 找到最新发布的文件，当前最新版本为v2024.10.3.0
 复制tModLoader.zip的下载地址
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/tmodloader-ver.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/tmodloader-ver.png)
 
 在GitHub上下载tModLoader服务端
 ***如果你在中国大陆，那么连接Github需要使用科学上网，[在Linux上部署Clash。](https://www.noseeflower.icu/)***
 
     wget https://github.com/tModLoader/tModLoader/releases/download/v2024.10.3.0/tModLoader.zip
 
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/wget.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/wget.png)
 
 解压tModLoader.zip
 
@@ -91,8 +91,8 @@ tModLoader文件夹结构如下：
 
 输入n，不使用Steam的服务器
 
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/run.png)
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/zhumi.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/run.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/zhumi.png)
 
 Ctrl+c退出，下一步处理模组
 
@@ -137,22 +137,22 @@ Ctrl+c退出，下一步处理模组
 按下esc，再按下:，输入wq退出编辑
 
 打开你的tModLoader，确保你启用并且加载你要游玩的模组后
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/tmodloader.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/tmodloader.png)
 来到模组整合包
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/mod-integration-package.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/mod-integration-package.png)
 将已启用的模组生成为新的整合包
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/mod-integration-package-2.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/mod-integration-package-2.png)
 整合包名称随意，生成后打开模组整合包文件夹
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/mod-integration-package-3.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/mod-integration-package-3.png)
 进入你的模组整合包的Mods文件夹
 使用SFTP工具(我这里使用的是Tabby自带的SFTP上传工具)，将install.txt上传到云服务器的tModLoader目录中
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/mod-integration-package-4.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/mod-integration-package-4.png)
 
 运行install-Workshop-Mods.sh下载模组
 
     ./install-Workshop-Mods.sh
 
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/install-workshop-mods.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/install-workshop-mods.png)
 
 显示Success. Downloaded item xxxxxxxxx则表示下载成功
 
@@ -174,55 +174,55 @@ Ctrl+c退出，下一步处理模组
 
 输入n，不使用Steam的服务器
 
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/run.png)
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/zhumi.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/run.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/zhumi.png)
 
 输入m
 
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-1.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-1.png)
 
 输入e(启用全部模组)回车，再输入r(重新加载模组并且回到主界面)
 
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-2.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-2.png)
 
 输入n回车，创建新世界
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-3.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-3.png)
 
 选择世界大小，输入的对应编号回车，1为小世界，2为中世界，3为大世界
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-4.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-4.png)
 
 选择难度模式，输入的对应编号回车，1为经典，2为专家，3为大师，4为旅行
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-5.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-5.png)
 
 选择世界感染，输入的对应编号回车，1为随机，2为孵化，3为血腥
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-6.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-6.png)
 
 输入世界名称回车
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-7.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-7.png)
 
 输入世界种子，默认回车就是随机种子
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-8.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-8.png)
 
 生成世界ing
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-9.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-9.png)
 
 输入对应的世界编号回车
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-10.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-10.png)
 
 输入可容纳的玩家数量，默认16回车
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-11.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-11.png)
 
 选择端口，默认7777回车(启动之前已经处理过了)
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-12.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-12.png)
 
 选择是否转发端口，随意你是否开启
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-13.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-13.png)
 
 输入服务器密码，默认不输入就是没有密码
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-14.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-14.png)
 
 加载世界ing
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-15.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/start-server-15.png)
 
 按下Ctrl+A+D退出当前窗口，使tModLoader在后台运行。 **(虽然它本来就会在后台运行，方便管理)**
 

@@ -31,7 +31,7 @@ CPU：双核
 ***其它系统安装请阅读Steamcmd的官网***
 
 输入steamcmd，尝试运行steamcmd，成功后输入exit退出
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-tModloader-server/steamcmd.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-tModloader-server/steamcmd.png)
 
 ## 2.获取饥荒联机版服务端
 创建一个名为dont_starve_together_dedicated_server_scripts的文件夹, 并且进入这个文件夹
@@ -50,19 +50,19 @@ CPU：双核
 
     ./update_dedicated_server.sh
 
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/update-dedicated-server.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/update-dedicated-server.png)
 
 ## 3.获取专用服务器Token
 打开你的饥荒联机版，登陆游戏
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/get-token.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/get-token.png)
 点击左下角的'账号'，会打开你的饥荒联机版账号信息
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/get-token-2.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/get-token-2.png)
 点击游戏
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/get-token-3.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/get-token-3.png)
 点击《饥荒：联机版》的游戏服务器
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/get-token-4.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/get-token-4.png)
 添加新服务器，输入一个服务器名称，然后点击添加新服务器
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/get-token-5.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/get-token-5.png)
 复制这串pds-g^开头的token，等会需要使用。
 
 ***为什么需要这一串token？因为服务器需要token标识这个服务器属于你***
@@ -84,20 +84,20 @@ CPU：双核
 添加洞穴
 
 确认无误之后，点击生成世界
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/mk-cluster.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/mk-cluster.png)
 生成完后退出世界
 
 来到选择存档的界面，点击管理存档。
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/mk-cluster-2.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/mk-cluster-2.png)
 再点击打开世界文件夹。
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/mk-cluster-3.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/mk-cluster-3.png)
 在世界文件夹创建一个名为cluster_token.txt的文本文件, 填入刚刚你申请的token保存关闭(注意不要有空格)
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/mk-cluster-4.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/mk-cluster-4.png)
 回到Linux服务器，在DoNotStarveTogether下创建一个名为MyDediServer的文件夹
 
     mkdir ~/.klei/DoNotStarveTogether/MyDediServer
 
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/mk-cluster-5.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/mk-cluster-5.png)
 使用SFTP工具(我这里使用的是Tabby自带的SFTP上传工具)，将Master Caves cluster.ini cluster_token.txt上传到Linux服务器的MyDediServer，以下是文件夹结构
 
     MyDediServer
@@ -132,8 +132,8 @@ steamapps-common-Don't Starve Together Dedicated Server-mods
     ServerModSetup("ID")
 
 回到存档MyDediServer文件夹，进入Master文件夹，打开modoverrides.lua模组配置文件，其中有workshop-开头的代码，后面接的就是模组的ID
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/set-mods-2.png)
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/set-mods.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/set-mods-2.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/set-mods.png)
 
 写入保存后，开启服务器的时候会下载更新模组
 
@@ -170,27 +170,27 @@ steamapps-common-Don't Starve Together Dedicated Server-mods
     cd ~/Steam/steamapps/common/Don\'t\ Starve\ Together\ Dedicated\ Server/bin64/
     screen -S Master ./dontstarve_dedicated_server_nullrenderer_x64 -console -cluster MyDediServer -shard Master
 
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/start-scripts.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/start-scripts.png)
 
 洞穴世界start_cave_server.sh
 
     cd ~/Steam/steamapps/common/Don\'t\ Starve\ Together\ Dedicated\ Server/bin64/
     screen -S Master ./dontstarve_dedicated_server_nullrenderer_x64 -console -cluster MyDediServer -shard Caves
 
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/start-scripts-2.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/start-scripts-2.png)
 
 启动地上世界
 
     ./start_master_server.sh
 
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/start-scripts-4.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/start-scripts-4.png)
 
 依次按下Ctrl+A+D退出当前窗口
 启动地下世界
 
     ./start_cave_server.sh
 
-![](https://raw.githubusercontent.com/HarmonyTou/harmonytou.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/start-scripts-3.png)
+![](https://raw.githubusercontent.com/x-cast-x/x-cast-x.github.io/main/source/img/screenshots/start-a-donotstarvetogether-server/start-scripts-3.png)
 
 日志提示'[Shard] secondary shard LUA is now ready! Sim paused'则是服务器启动成功，世界已暂停。
 现在就可以打开饥荒饥荒联机版，在多人游戏中搜索你的世界名称加入游玩了。
