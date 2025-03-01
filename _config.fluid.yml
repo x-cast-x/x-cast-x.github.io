@@ -962,7 +962,7 @@ about:
     - { class: "iconfont icon-qq-fill", link: "tencent://message/?uin=2650574930", tip: "QQ" }
     - { class: "iconfont icon-github-fill", link: "https://github.com/x-cast-x", tip: "GitHub" }
     - { class: "iconfont icon-bilibili-fill", link: "https://space.bilibili.com/671269248", tip: "Bilibili" }
-    - { class: "iconfont icon-steam", link: "https://steamcommunity.com/id/Manutsawee", tip: "Steam" }
+    - { class: "iconfont icon-steam", link: "https://steamcommunity.com/id/x_cast_x", tip: "Steam" }
 
 #---------------------------
 # 自定义页
