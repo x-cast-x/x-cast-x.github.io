@@ -23,7 +23,7 @@ categories:
 将终端添加到列表中，并启用它
 ![](https://stardewvalleywiki.com/mediawiki/images/b/b0/Fix_macOS_security_permissions_2.png)
 如果你使用的是iTerm, 或其它终端, 那么也将它添加到开发人员工具列表中
-如果使用类似于Stardrop和mod管理器, 也将它添加到开发人员工具列表中
+如果使用类似于Stardrop的mod管理器, 也将它添加到开发人员工具列表中
 
 最后重新安装smapi尝试运行它
 
