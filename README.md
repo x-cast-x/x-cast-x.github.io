@@ -1,0 +1,1 @@
+https://7.wsub1103.lol/api/v1/client/subscribe?token=7cf86f210faf72c9750dfa2c9ec88a0c
